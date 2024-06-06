@@ -20,24 +20,6 @@ This Plane Management Application is a simple console-based program for managing
 - Java Development Kit (JDK) installed on your machine.
 - A code editor or an Integrated Development Environment (IDE) such as IntelliJ IDEA, Eclipse, or Visual Studio Code.
 
-### Running the Application
-
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/your-username/plane-management.git
-    cd plane-management
-    ```
-
-2. **Compile the Application**:
-    ```bash
-    javac w2053174_PlaneManagement.java
-    ```
-
-3. **Run the Application**:
-    ```bash
-    java w2053174_PlaneManagement
-    ```
-
 ## Usage
 
 Upon running the application, a menu will be displayed with the following options:
